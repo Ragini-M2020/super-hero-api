@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:  border-box;
+}
+.card{
+    display:flex;
+    margin-left: 40%;
+
+}
+
+/* Assuming your button has a class named "center-button" */
+.button {
+    display: block; /* Ensure the button takes the full width available */
+    margin: 0 auto; /* This centers the button horizontally */
+  }
+  
